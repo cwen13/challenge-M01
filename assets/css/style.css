@@ -4,22 +4,14 @@
     margin: 0;
 }
 
+/* Element Selectors */
 body {
     background-color: #d9dcd6;
 }
 
-mark {
+/* select text to adjust look*/
+span {
     color: #d9dcd6;
-    background-color: #2a607c;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 header {
@@ -51,6 +43,15 @@ header nav ul li {
     margin-left: 25px;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
 footer {
     padding: 30px;
     clear: both;
@@ -62,6 +63,7 @@ footer h2 {
     font-size: 20px;
 }
 
+/* Class Selectors */
 .hero {
     height: 800px;
     width: 100%;
