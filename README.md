@@ -22,6 +22,14 @@ interchangeablity of them when updated together.
 
 The follwing is how the top and bottom sections of the site look when rendered.
 
-[Top section of the page](./assets/images/screenshot-top.png)
+![Top section of the page](./assets/images/screenshot-top.png)
 
-[Bottom section of the page](./assets/images/screenshot-bot.png)
+![Bottom section of the page](./assets/images/screenshot-bot.png)
+
+## Credit
+
+I worked on this with the help of my tutor Anderw Hardemon.
+
+## License
+
+MIT Open
